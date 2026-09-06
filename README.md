@@ -7,6 +7,6 @@ Kişisel laboratuvarların üst giriş sayfası. Statik HTML/CSS/JS olarak GitHu
 - `/hydraulic-lab/` — Hydraulic Lab
 - `/turbofan-lab/` — Turbofan Lab
 - `/soyagaci/` — Soyağacı
-- `/ruzgar-lab/` — Rüzgâr Lab (GitHub Pages taşıması tamamlanınca)
+- `/ruzgar-lab/` — Rüzgâr Lab
 
 Özel alan adı hazır olduğunda köke `CNAME` eklenir. Şimdilik site `muhammetarbag.github.io` altında çalışır.
