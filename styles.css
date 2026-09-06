@@ -52,7 +52,7 @@ h1 em { color: var(--cyan); font-style: normal; }
 .hero-cta { display: inline-flex; align-items: center; gap: 22px; padding-bottom: 8px; border-bottom: 1px solid var(--cyan); color: var(--ink); font-size: 14px; font-weight: 600; text-decoration: none; }
 .arrow { color: var(--cyan); font-size: 21px; line-height: 12px; transition: transform .25s ease; }
 .hero-cta:hover .arrow { transform: translate(4px, 4px); }
-.hero-instrument { justify-self: end; width: min(100%, 460px); aspect-ratio: 1; position: relative; display: grid; place-items: center; }
+.hero-instrument { justify-self: end; width: min(100%, 460px); aspect-ratio: 1; position: relative; display: grid; place-items: center; overflow: clip; }
 .instrument-grid { position: absolute; inset: 11%; border: 1px solid var(--line); background-image: linear-gradient(rgba(116, 214, 232, .1) 1px, transparent 1px), linear-gradient(90deg, rgba(116, 214, 232, .1) 1px, transparent 1px); background-size: 25% 25%; transform: rotate(45deg); }
 .instrument-ring { position: absolute; border: 1px solid var(--line); border-radius: 50%; }
 .instrument-ring--outer { inset: 5%; border-style: dashed; border-color: rgba(116, 214, 232, .35); }
