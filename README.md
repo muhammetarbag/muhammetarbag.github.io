@@ -4,8 +4,11 @@ Kişisel laboratuvarların üst giriş sayfası. Statik HTML/CSS/JS olarak GitHu
 
 ## Rotalar
 
+- `/autoflight-lab/` — Autoflight Lab (ATA 22 / AEE 303)
 - `/hydraulic-lab/` — Hydraulic Lab
+- `/aircraft-fuel-system-lab/` — Aircraft Fuel System Lab
 - `/turbofan-lab/` — Turbofan Lab
+- `/motorlab/` — Motorlab
 - `/soyagaci/` — Soyağacı
 - `/ruzgar-lab/` — Rüzgâr Lab
 
